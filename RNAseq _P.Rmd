@@ -1,0 +1,9 @@
+---
+title: "RNAseq P"
+author: "María"
+date: "`r Sys.Date()`"
+output:
+  prettydoc::html_pretty:
+    theme: architect
+    highlight: github
+---
